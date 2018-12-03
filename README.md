@@ -1,2 +1,5 @@
-# Ludum-Dare
-LD43 - Ludum Dare : The Game
+# Ludum-Dare: The Game
+
+LD43 - Theme is "Sacrifices must be made"
+
+The game is playable here: https://maitrepantoufle.itch.io/ludum-dare-the-game 
